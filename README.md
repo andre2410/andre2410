@@ -1,16 +1,19 @@
-### Hi there 👋
+# Greetings 👋
 
-<!--
-**andre2410/andre2410** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### About me
+- Currently, a Computer Science/Data Science Student at Otago University, graduating at the end of 2023
+- Looking for any Software development/Data Science job.
 
-Here are some ideas to get you started:
+On my GitHub, you can find projects I am currently working on or assignments that I am proud to share.
+Currently tidying up repositories to be shared.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages I use
+- Python
+- Java
+- C/C++
+- R
+- SQL
+*Most comfortable with Python and Java
+
+### Contact me
+Contact me through my email and LinkedIn links on my profile column.
