@@ -5,7 +5,10 @@
 - Looking for any Software development/Data Science job.
 
 On my GitHub, you can find projects I am currently working on or assignments that I am proud to share.
-Currently tidying up repositories to be shared.
+
+[Render Engine](https://github.com/andre2410/renderengine)
+
+More to come. :thumbsup:
 
 ### Languages I use/have used
 - Python
@@ -15,8 +18,6 @@ Currently tidying up repositories to be shared.
 - SQL
 - Javascript
 - HTML, CSS
-
-*Most comfortable with Python and Java
 
 ### Contact me
 Contact me through my email and LinkedIn links in my profile column.
