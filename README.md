@@ -4,11 +4,13 @@
 - Currently, a Computer Science/Data Science Student at Otago University, graduating at the end of 2023
 - Looking for any Software development/Data Science job.
 
-On my GitHub, you can find projects I am currently working on or assignments that I am proud to share.
-
+### Projects
+[Movie and Food Recommendation App](https://github.com/vicmon810/COSC345) (in progress)
+Fractal Pattern App (in progress)
+No overflow Calculator (in progress)
 [Render Engine](https://github.com/andre2410/renderengine)
+[Image Editor](https://github.com/andre2410/ImageEditor)
 
-More to come. :thumbsup:
 
 ### Languages I use/have used
 - Python
@@ -19,5 +21,5 @@ More to come. :thumbsup:
 - Javascript
 - HTML, CSS
 
-### Contact me
-Contact me through my email and LinkedIn links in my profile column.
+### Contact
+If you want, you can contact me through my email and LinkedIn links in my profile column.
