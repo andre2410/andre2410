@@ -6,8 +6,8 @@
 
 ### Projects
 [Movie and Food Recommendation App](https://github.com/vicmon810/COSC345) (in progress)<br>
-Fractal Pattern App (in progress)<br>
-No overflow Calculator (in progress)<br>
+[Fractal Pattern App](https://github.com/andre2410/Fractals) (in progress)<br>
+[No overflow Calculator](https://github.com/andre2410/Calculat0r) (in progress)<br>
 [Render Engine](https://github.com/andre2410/renderengine)<br>
 [Image Editor](https://github.com/andre2410/ImageEditor)<br>
 
